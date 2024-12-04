@@ -56,7 +56,7 @@ int main() {
         return 1; // 오류가 발생하면 프로그램 종료
     }
 
-    // 선택된 연산에 따른 처리
+    // 선택된 연산에 따른 처리 switch 부분 다시 수정완료
     switch (choice) {
     case 1:
         add(num1, num2);
