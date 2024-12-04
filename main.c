@@ -16,7 +16,8 @@ void multiply(double a, double b) //곱셈 부분 수정
     printf("곱셈 결과: %.2f\n", a*b);
 }
 
-void divide(double a, double b) {
+void divide(double a, double b) // 나눗셈 부분 수정
+{
     if (b == 0) {
         printf("나누기 오류: 0으로 나눌 수 없습니다.\n");
     }
