@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 void add(double a, double b) {
@@ -11,6 +12,7 @@ void subtract(double a, double b) {
 void multiply(double a, double b) {
     printf("곱셈 결과: %.2f\n", a * b);
 }
+
 
 void divide(double a, double b) {
     if (b == 0) {
