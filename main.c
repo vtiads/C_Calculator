@@ -11,8 +11,9 @@ void subtract(double a, double b) //뺄셈 부분 수정
     printf("뺄셈 결과: %.2f\n", a-b);
 }
 
-void multiply(double a, double b) {
-    printf("곱셈 결과: %.2f\n", a * b);
+void multiply(double a, double b) //곱셈 부분 수정
+{
+    printf("곱셈 결과: %.2f\n", a*b);
 }
 
 void divide(double a, double b) {
