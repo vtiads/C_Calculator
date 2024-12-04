@@ -6,8 +6,9 @@ void add(double a, double b) //코드 오류 수정
     printf("덧셈 결과: %.2f\n", a + b);
 }
 
-void subtract(double a, double b) {
-    printf("뺄셈 결과: %.2f\n", a - b);
+void subtract(double a, double b) //뺄셈 부분 수정 
+{
+    printf("뺄셈 결과: %.2f\n", a-b);
 }
 
 void multiply(double a, double b) {
