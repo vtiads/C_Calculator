@@ -1,7 +1,8 @@
 
 #include <stdio.h>
 
-void add(double a, double b) {
+void add(double a, double b) //코드 오류 수정
+{
     printf("덧셈 결과: %.2f\n", a + b);
 }
 
