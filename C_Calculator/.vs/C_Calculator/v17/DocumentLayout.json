@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ckzks\\source\\repos\\C_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4041805A-7838-4712-BA1A-1C666F659B0F}|C_Calculator\\C_Calculator.vcxproj|C:\\Users\\ckzks\\source\\repos\\C_Calculator\\C_Calculator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4041805A-7838-4712-BA1A-1C666F659B0F}|C_Calculator\\C_Calculator.vcxproj|solutionrelative:C_Calculator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ckzks\\source\\repos\\C_Calculator\\C_Calculator\\main.c",
+              "RelativeDocumentMoniker": "C_Calculator\\main.c",
+              "ToolTip": "C:\\Users\\ckzks\\source\\repos\\C_Calculator\\C_Calculator\\main.c",
+              "RelativeToolTip": "C_Calculator\\main.c",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-03T11:28:39.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
