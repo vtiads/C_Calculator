@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 void add(double a, double b) {
@@ -51,5 +52,25 @@ int main() {
         return 1; // 오류가 발생하면 프로그램 종료
     }
 
+    // 선택된 연산에 따른 처리
+    switch (choice) {
+    case 1:
+        add(num1, num2);
+        break;
+    case 2:
+        subtract(num1, num2);
+        break;
+    case 3:
+        multiply(num1, num2);
+        break;
+    case 4:
+        divide(num1, num2);
+        break;
+    default:
+        printf("잘못된 선택입니다.\n");
+        break;
+    }
 
+    return 0;
+}
 
